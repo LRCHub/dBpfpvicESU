@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Gallery",
+  "base_artist": "Mario Vazquez",
+  "createdAt": "2025-12-02T08:53:00.930968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gallery Piece (JB Remix)",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/01_Gallery_Piece_(JB_Remix)_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gallery Piece (Long Version)",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/02_Gallery_Piece_(Long_Version)_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In The Gallery",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/03_In_The_Gallery_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In The Gallery",
+      "artist": "Dire Straits",
+      "has_synced": false,
+      "path": "select/04_In_The_Gallery_Dire_Straits.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Gallery",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/05_The_Gallery_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gallery Of Suicide",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/06_Gallery_Of_Suicide_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gallery of Suicide",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/07_Gallery_of_Suicide_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Whispering Gallery",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/08_The_Whispering_Gallery_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gallery",
+      "artist": "Annihilator",
+      "has_synced": false,
+      "path": "select/09_Gallery_Annihilator.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Minstrel In The Gallery",
+      "artist": "Jethro Tull",
+      "has_synced": false,
+      "path": "select/10_Minstrel_In_The_Gallery_Jethro_Tull.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Minstrel In the Gallery (Live)",
+      "artist": "Jethro Tull",
+      "has_synced": false,
+      "path": "select/11_Minstrel_In_the_Gallery_(Live)_Jethro_Tull.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Minstrel In the Gallery",
+      "artist": "Robert Berry",
+      "has_synced": false,
+      "path": "select/12_Minstrel_In_the_Gallery_Robert_Berry.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In the Gallery",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/13_In_the_Gallery_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Minstrel in the Gallery",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/14_Minstrel_in_the_Gallery_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Statues in a Gallery",
+      "artist": "Kishi Bashi",
+      "has_synced": true,
+      "path": "select/15_Statues_in_a_Gallery_Kishi_Bashi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Gallery",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/16_The_Gallery_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gallery",
+      "artist": "Mario Vazquez",
+      "has_synced": false,
+      "path": "select/pl_01_Gallery_Mario_Vazquez.txt"
+    }
+  ]
+}
